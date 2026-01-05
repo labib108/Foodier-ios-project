@@ -192,7 +192,7 @@ To get started with Foodier:
 
 1. Clone the repository:
 ```bash
-   git clone https://github.com/MachangDoniel/Foodier.git
+   git clone https://github.com/labib108/Foodier-ios-project.git
 ```
 2. Open the project in Xcode.
 3. Build and run each app on the iOS simulator or a physical device.
@@ -205,4 +205,4 @@ Contributions are welcome! If you have suggestions for improving Foodier, please
 This project is licensed under the Apache License - see the [LICENSE](LICENSE) file for details.
 ## Contact
 
-For any inquiries, please contact [donieltripura1971@gmail.com](mailto:donieltripura1971@gmail.com)
+For any inquiries, please contact [abubuckkersiddikh@gmail.com](mailto:abubuckkersiddikh@gmail.com)
